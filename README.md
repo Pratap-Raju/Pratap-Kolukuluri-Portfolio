@@ -1,5 +1,4 @@
 Pratap Kolukuluri - Portfolio
-A modern, high-performance personal portfolio website built to showcase engineering projects, technical skills, and academic achievements. This site features a sleek, dark-themed UI with dynamic scroll animations and a responsive design tailored for all devices.
 
 🚀 Key Features
 Dynamic Animations: Utilizes GSAP (GreenSock Animation Platform) and ScrollTrigger for smooth, high-end motion effects and text reveals.
